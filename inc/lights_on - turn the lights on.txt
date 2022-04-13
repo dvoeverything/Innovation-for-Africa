@@ -1,0 +1,8 @@
+lights_on - turn  the lights on 
+idle_state - lights off , check for buttons
+wait_state - lights on , check if any buttons are preesed
+button_pressed - if any button is pressed check which button 
+time_state -      
+alarm_state - if t>=30000ms
+upload_state - uploads when ever any button is pressed
+

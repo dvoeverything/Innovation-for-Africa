@@ -1,0 +1,2 @@
+SELECT * FROM orders JOIN user_data ON orders.userid=user_data.userid
+SELECT * FROM orders JOIN users ON orders.userid = users.id
